@@ -5,3 +5,4 @@ Prathiksha 123
 Namratha 500
 Kapil 1000
 Total 1000
+Upgrad 10000000
