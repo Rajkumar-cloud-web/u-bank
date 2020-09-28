@@ -4,4 +4,4 @@ Spandana 350
 Prathiksha 123
 Namratha 500
 Kapil 1000
-Total 10000
+Total 1000
